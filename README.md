@@ -24,3 +24,12 @@ Discord SkySpace Group: https://discord.gg/8PpaYcP
 *(Amy sprites by E-122-Psi)*
 
 *Not So Simple Sonic Worlds made by LakeFeperd.*
+
+
+[EDIT - 26/02/2018 - GMT -3]
+
+-English/Inglês-
+This repository has been moved to my personal account. If you want updates from that date, go there.
+
+-Portuguese/Português-
+Este repositório foi movido para a minha conta pessoal. Caso queira atualizações a partir dessa data, vá até lá.
