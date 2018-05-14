@@ -1,4 +1,4 @@
-# StarByte Engine
+<div style="text-align:center">StarByte Engine</div>
 
 ### [English / Inglês]
 
