@@ -16,13 +16,12 @@ Objetivo: Recriar a mecânica de gameplay dos jogos da série Sonic, de modo que
 
 Contacts / Contatos:
 
-International Discord server: https://discord.gg/SzWxDFn
-
-Brazilian Discord server: https://discord.gg/8PpaYcP
+Discord server: https://discord.gg/8PpaYcP
+Website: https://skyspace.esy.es
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 *Sonic Worlds development team: Damizean, MCKaosu, LarkSS, Techokami, Sparks, Mr. Potatobadger, Ice God 64 e Lange*
 *(Amy sprites by E-122-Psi)*
 
-*Not So Simple Sonic Worlds made by LakeFeperd.*
+*Simple/Not So Simple Sonic Worlds made by LakeFeperd.*
