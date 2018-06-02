@@ -20,7 +20,9 @@ Contacts / Contatos:
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-##### Sonic Worlds development team: Damizean, MCKaosu, LarkSS, Techokami, Sparks, Mr. Potatobadger, Ice God 64 e Lange
+##### Sonic Worlds development team: Damizean, MCKaosu, LarkSS, Techokami, Sparks, Mr. Potatobadger, Ice God 64 and Lange
 ##### (Amy sprites by E-122-Psi)
 
 ##### Simple/Not So Simple Sonic Worlds made by LakeFeperd.
+
+##### StarByte Engine made by SSN_Skyer, YohananDiamond and all SkySpace Group members.
