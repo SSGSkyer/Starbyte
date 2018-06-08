@@ -2,13 +2,13 @@
 
 Game development kit for use in Fusion (Clickteam Fusion 2.5), built from the engine Not So Simple Sonic Worlds.
 
-Objective: Recreate the gameplay mechanics of Sonic games so that it merges classic and modern gameplay and opens up room for other types of gameplay.
+Objective: Bring a more fluid gameplay with fast mechanics and, at the same time, make room for easy code exploration.
 
 ### [Portuguese / Português]
 
 Kit de desenvolvimento para uso em Fusion (ClickTeam Fusion 2.5), construido a partir da engine Not So Simple Sonic Worlds.
 
-Objetivo: Recriar a mecânica de gameplay dos jogos da série Sonic, de modo que ela faça a fusão da jogabilidade clássica com moderna, além de abrir espaço para outros tipos de jogabilidade.
+Objetivo: Trazer uma gameplay mais fluída com mecânicas rápidas e, ao mesmo tempo, abrir espaço para a fácil exploração do código.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -20,9 +20,8 @@ Contacts / Contatos:
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-##### Sonic Worlds development team: Damizean, MCKaosu, LarkSS, Techokami, Sparks, Mr. Potatobadger, Ice God 64 and Lange
-##### (Amy sprites by E-122-Psi)
+##### Sonic Worlds Delta made by Sonic Worlds Delta team.
 
 ##### Simple/Not So Simple Sonic Worlds made by LakeFeperd.
 
-##### StarByte Engine made by SSN_Skyer, YohananDiamond and all SkySpace Group members.
+##### StarByte Engine made by SSN_Skyer, YohananDiamond and all SkySpace Group development members.
