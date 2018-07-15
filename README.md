@@ -16,9 +16,12 @@ Objetivo: Trazer uma gameplay mais fluída com mecânicas rápidas e, ao mesmo t
 
 Contacts / Contatos:
 
-[Discord](https://discord.gg/8PpaYcP)
+[Discord (Brazilian server)](https://discord.gg/8PpaYcP)
 
-[Website](https://skyspace.esy.es)
+Discord tags of development team members / Tags do Discord dos membros da equipe de desenvolvimento:
+
+SSN_Skyer#4604
+YohananDiamond#2892
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
