@@ -1,4 +1,3 @@
-![](https://github.com/SSNSkyer/Starbyte/raw/master/images/GIF2.gif)
 ![](https://github.com/SSNSkyer/Starbyte/raw/master/images/GIF.gif)
 ### [English / Inglês]
 
