@@ -1,4 +1,3 @@
-![](https://github.com/SSNSkyer/Starbyte/raw/master/images/GIF.gif)
 ### [English / Inglês]
 
 Game development kit for use in Fusion (Clickteam Fusion 2.5), built from the engine Not So Simple Sonic Worlds.
