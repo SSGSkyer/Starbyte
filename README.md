@@ -19,7 +19,7 @@ Contacts / Contatos:
 [Website (temporarily portuguese-only)](http://planetpress.atwebpages.com)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-##### StarByte Engine made by Starbyte engine team.
+##### Novapix Engine made by SkySpace Team.
 
 ##### Sonic Worlds Delta made by Sonic Worlds Delta team.
 
