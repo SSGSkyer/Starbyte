@@ -19,7 +19,7 @@ Contacts / Contatos:
 [Website (temporarily portuguese-only)](http://planetpress.atwebpages.com)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-##### Novapix Engine made by SkySpace Team.
+##### Novapix Engine made by SkySpace Group.
 
 ##### Sonic Worlds Delta made by Sonic Worlds Delta team.
 
